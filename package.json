@@ -29,6 +29,7 @@
     "whatwg-fetch": "^3.6.2"
   },
   "scripts": {
+    "start": "react-scripts start",
     "dev": "vite",
     "build": "vite build",
     "server": "json-server --watch db.json --port 4000",
